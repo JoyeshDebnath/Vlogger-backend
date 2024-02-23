@@ -1,0 +1,15 @@
+{
+	"name": "JD-Blog-backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "Joyesh",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2",
+		"mongoose": "^8.2.0"
+	}
+}
